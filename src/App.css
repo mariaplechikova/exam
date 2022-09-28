@@ -1,6 +1,5 @@
 .App {
-  text-align: center;
-}
+  text-align: left;}
 
 .App-logo {
   height: 40vmin;
@@ -13,7 +12,11 @@
   }
 }
 
-.App-header {
+/* .mooves-list {
+  background-color: blue;
+} */
+
+/* .App-header {
   background-color: #282c34;
   min-height: 100vh;
   display: flex;
@@ -25,7 +28,7 @@
 }
 
 .App-link {
-  color: #61dafb;
+  color: #fb61e1;
 }
 
 @keyframes App-logo-spin {
@@ -35,4 +38,4 @@
   to {
     transform: rotate(360deg);
   }
-}
+} */
